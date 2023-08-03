@@ -13,24 +13,22 @@
       
       
       
-        <link rel="prev" href="..">
       
+        <link rel="next" href="apv/">
       
-        <link rel="next" href="../keybinds/">
-      
-      <link rel="icon" href="../assets/favicon.png">
+      <link rel="icon" href="assets/favicon.png">
       <meta name="generator" content="mkdocs-1.5.1, mkdocs-material-9.1.21">
     
     
       
-        <title>APV - STS</title>
+        <title>STS</title>
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.eebd395e.min.css">
+      <link rel="stylesheet" href="assets/stylesheets/main.eebd395e.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.ecc896b0.min.css">
+        <link rel="stylesheet" href="assets/stylesheets/palette.ecc896b0.min.css">
       
       
 
@@ -46,7 +44,7 @@
       
     
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -85,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#algemene-plaatselijke-verordening-sts" class="md-skip">
+        <a href="#informatie-website-sts" class="md-skip">
           Ga naar inhoud
         </a>
       
@@ -101,7 +99,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="STS" class="md-header__button md-logo" aria-label="STS" data-md-component="logo">
+    <a href="." title="STS" class="md-header__button md-logo" aria-label="STS" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
@@ -120,7 +118,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              APV
+              Home
             
           </span>
         </div>
@@ -213,7 +211,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigatie" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="STS" class="md-nav__button md-logo" aria-label="STS" data-md-component="logo">
+    <a href="." title="STS" class="md-nav__button md-logo" aria-label="STS" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
@@ -223,21 +221,6 @@
   </label>
   
   <ul class="md-nav__list" data-md-scrollfix>
-    
-      
-      
-      
-
-  
-  
-  
-    <li class="md-nav__item">
-      <a href=".." class="md-nav__link">
-        Home
-      </a>
-    </li>
-  
-
     
       
       
@@ -257,12 +240,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          APV
+          Home
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <a href="./" class="md-nav__link md-nav__link--active">
-        APV
+      <a href="." class="md-nav__link md-nav__link--active">
+        Home
       </a>
       
         
@@ -281,212 +264,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#straffen" class="md-nav__link">
-    Straffen:
+  <a href="#officiele-discord-servers" class="md-nav__link">
+    Officiële discord servers
+  </a>
+  
+    <nav class="md-nav" aria-label="Officiële discord servers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gemaakt-door-caspertjuh" class="md-nav__link">
+    Gemaakt door Caspertjuh
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-1-exploits-en-cheats" class="md-nav__link">
-    Artikel 1 - Exploits en cheats:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-2-ban-omzeilen" class="md-nav__link">
-    Artikel 2 - Ban omzeilen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-3-rdm" class="md-nav__link">
-    Artikel 3 - RDM:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-4-permissions-abuse" class="md-nav__link">
-    Artikel 4 - Permissions abuse:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-5-schelden-met-hedendaagse-ziektes" class="md-nav__link">
-    Artikel 5 - Schelden met hedendaagse ziektes:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-6-kleinerend-gedragspelers-belachelijk-maken" class="md-nav__link">
-    Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-7-spammen" class="md-nav__link">
-    Artikel 7 - Spammen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-8-safezone-abuserdm" class="md-nav__link">
-    Artikel 8 - Safezone abuse/rdm:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-9-jezelf-voordoen-als-staff" class="md-nav__link">
-    Artikel 9 - Jezelf voordoen als staff:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-10-value-of-life" class="md-nav__link">
-    Artikel 10 - Value of life:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-11-vdm" class="md-nav__link">
-    Artikel 11 - VDM:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-12-staff-abuse" class="md-nav__link">
-    Artikel 12 - Staff Abuse:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-13-overval-regels" class="md-nav__link">
-    Artikel 13 - Overval Regels:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-14-new-life-rule" class="md-nav__link">
-    Artikel 14 - New Life Rule:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-15-verstoren-van-een-rp" class="md-nav__link">
-    Artikel 15 - Verstoren van een RP:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-16-adverteren" class="md-nav__link">
-    Artikel 16 - Adverteren:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-17-earrape" class="md-nav__link">
-    Artikel 17 -  Earrape:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-18-algemene-regels-voor-betaalde-gangs" class="md-nav__link">
-    Artikel 18 -  Algemene regels voor betaalde gangs:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-19-terrein-claimen" class="md-nav__link">
-    Artikel 19 -  Terrein Claimen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-20-uitlokken-van-officiele-gangs" class="md-nav__link">
-    Artikel 20 -  Uitlokken van officiële gangs:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-21-combatlogging" class="md-nav__link">
-    Artikel 21 - Combatlogging:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-22-streamsnipen" class="md-nav__link">
-    Artikel 22 - Streamsnipen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-23-liegen-tegen-staffleden" class="md-nav__link">
-    Artikel 23 - Liegen tegen staffleden:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-24-bedreiging" class="md-nav__link">
-    Artikel 24 - Bedreiging:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-25-erotische-rp-scenarios" class="md-nav__link">
-    Artikel 25  - Erotische RP Scenario's:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-26-reports" class="md-nav__link">
-    Artikel 26  - Reports:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-27-officiele-groeperingen" class="md-nav__link">
-    Artikel 27 - Officiële Groeperingen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-28-scammenoplichting" class="md-nav__link">
-    Artikel 28 - Scammen/oplichting:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#samensluiting" class="md-nav__link">
-    Samensluiting
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -506,7 +299,22 @@
   
   
     <li class="md-nav__item">
-      <a href="../keybinds/" class="md-nav__link">
+      <a href="apv/" class="md-nav__link">
+        APV
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="keybinds/" class="md-nav__link">
         Keybinds
       </a>
     </li>
@@ -521,7 +329,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../commands/" class="md-nav__link">
+      <a href="commands/" class="md-nav__link">
         Commands
       </a>
     </li>
@@ -536,7 +344,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../wapenlijst/" class="md-nav__link">
+      <a href="wapenlijst/" class="md-nav__link">
         Wapenlijst
       </a>
     </li>
@@ -551,7 +359,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../joblijst/" class="md-nav__link">
+      <a href="joblijst/" class="md-nav__link">
         Joblijst
       </a>
     </li>
@@ -566,7 +374,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../voertuigenlijst/" class="md-nav__link">
+      <a href="voertuigenlijst/" class="md-nav__link">
         Voertuigenlijst
       </a>
     </li>
@@ -581,7 +389,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../itemlijst/" class="md-nav__link">
+      <a href="itemlijst/" class="md-nav__link">
         Itemlijst
       </a>
     </li>
@@ -596,7 +404,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../redzoneinfo/" class="md-nav__link">
+      <a href="redzoneinfo/" class="md-nav__link">
         Redzoneinfo
       </a>
     </li>
@@ -611,7 +419,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../faq/" class="md-nav__link">
+      <a href="faq/" class="md-nav__link">
         FAQ
       </a>
     </li>
@@ -645,212 +453,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#straffen" class="md-nav__link">
-    Straffen:
+  <a href="#officiele-discord-servers" class="md-nav__link">
+    Officiële discord servers
+  </a>
+  
+    <nav class="md-nav" aria-label="Officiële discord servers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gemaakt-door-caspertjuh" class="md-nav__link">
+    Gemaakt door Caspertjuh
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-1-exploits-en-cheats" class="md-nav__link">
-    Artikel 1 - Exploits en cheats:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-2-ban-omzeilen" class="md-nav__link">
-    Artikel 2 - Ban omzeilen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-3-rdm" class="md-nav__link">
-    Artikel 3 - RDM:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-4-permissions-abuse" class="md-nav__link">
-    Artikel 4 - Permissions abuse:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-5-schelden-met-hedendaagse-ziektes" class="md-nav__link">
-    Artikel 5 - Schelden met hedendaagse ziektes:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-6-kleinerend-gedragspelers-belachelijk-maken" class="md-nav__link">
-    Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-7-spammen" class="md-nav__link">
-    Artikel 7 - Spammen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-8-safezone-abuserdm" class="md-nav__link">
-    Artikel 8 - Safezone abuse/rdm:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-9-jezelf-voordoen-als-staff" class="md-nav__link">
-    Artikel 9 - Jezelf voordoen als staff:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-10-value-of-life" class="md-nav__link">
-    Artikel 10 - Value of life:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-11-vdm" class="md-nav__link">
-    Artikel 11 - VDM:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-12-staff-abuse" class="md-nav__link">
-    Artikel 12 - Staff Abuse:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-13-overval-regels" class="md-nav__link">
-    Artikel 13 - Overval Regels:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-14-new-life-rule" class="md-nav__link">
-    Artikel 14 - New Life Rule:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-15-verstoren-van-een-rp" class="md-nav__link">
-    Artikel 15 - Verstoren van een RP:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-16-adverteren" class="md-nav__link">
-    Artikel 16 - Adverteren:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-17-earrape" class="md-nav__link">
-    Artikel 17 -  Earrape:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-18-algemene-regels-voor-betaalde-gangs" class="md-nav__link">
-    Artikel 18 -  Algemene regels voor betaalde gangs:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-19-terrein-claimen" class="md-nav__link">
-    Artikel 19 -  Terrein Claimen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-20-uitlokken-van-officiele-gangs" class="md-nav__link">
-    Artikel 20 -  Uitlokken van officiële gangs:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-21-combatlogging" class="md-nav__link">
-    Artikel 21 - Combatlogging:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-22-streamsnipen" class="md-nav__link">
-    Artikel 22 - Streamsnipen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-23-liegen-tegen-staffleden" class="md-nav__link">
-    Artikel 23 - Liegen tegen staffleden:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-24-bedreiging" class="md-nav__link">
-    Artikel 24 - Bedreiging:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-25-erotische-rp-scenarios" class="md-nav__link">
-    Artikel 25  - Erotische RP Scenario's:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-26-reports" class="md-nav__link">
-    Artikel 26  - Reports:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-27-officiele-groeperingen" class="md-nav__link">
-    Artikel 27 - Officiële Groeperingen:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#artikel-28-scammenoplichting" class="md-nav__link">
-    Artikel 28 - Scammen/oplichting:
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#samensluiting" class="md-nav__link">
-    Samensluiting
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -869,204 +487,51 @@
                   
 
 
-<h1 id="algemene-plaatselijke-verordening-sts">Algemene Plaatselijke Verordening STS<a class="headerlink" href="#algemene-plaatselijke-verordening-sts" title="Permanent link">&para;</a></h1>
-<h3 id="straffen">Straffen:<a class="headerlink" href="#straffen" title="Permanent link">&para;</a></h3>
+<h1 id="informatie-website-sts">Informatie Website STS<a class="headerlink" href="#informatie-website-sts" title="Permanent link">&para;</a></h1>
+<p>Welkom op de pagina voor de Regelgeving van Shady's Testserver! In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Shady's Testserver.</p>
 <ul>
-<li>Cat 1: Warning tot 2 uur ban.</li>
-<li>Cat 2: Ban 1 dag</li>
-<li>Cat 3: Ban 3 dagen</li>
-<li>Cat 4: Ban 1 week</li>
-<li>Cat 5: Ban 2 weken</li>
-<li>Cat 6: Permanente ban</li>
-<li>Cat 7: Permanente ban + discord ban</li>
-<li>Straffen kunnen verhoogd worden bij het uitloggen tijdens het aangesproken worden op je gedrag, ook kan het apv ten alle tijde worden aangepast.</li>
+<li>De Algemene Plaatselijke Verordening bevat alle regels (zogezegd de server regels).</li>
+<li>De rest van de pagina's zijn informatie over in-game zaken. Bijvoorbeeld hoe je een wapen inspawned, of hoe de redzone werkt.</li>
 </ul>
-<h3 id="artikel-1-exploits-en-cheats">Artikel 1 - Exploits en cheats:<a class="headerlink" href="#artikel-1-exploits-en-cheats" title="Permanent link">&para;</a></h3>
-<p>Enige vorm van aimbot, ESP, mod menu's en dergelijke zal een straf opleveren van de 7e categorie.</p>
-<h3 id="artikel-2-ban-omzeilen">Artikel 2 - Ban omzeilen:<a class="headerlink" href="#artikel-2-ban-omzeilen" title="Permanent link">&para;</a></h3>
-<p>Het omzeilen van je ban zowel op de discord als op de server zal een straf opleveren van de 7e categorie.</p>
-<h3 id="artikel-3-rdm">Artikel 3 - RDM:<a class="headerlink" href="#artikel-3-rdm" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het killen van mensen die niet betrokken zijn bij jouw schietpartij en ook niet betrokken willen zijn zal een straf opleveren van de 1e categorie.</li>
-<li>Dit continu doen, en op meerdere mensen word opgevat als "MassRDM/VDM" en zal een straf opleveren van de 2e categorie.</li>
-<li>Iemand "spawnkillen" zal een straf opleveren van de 4e categorie.</li>
-<li>Hij/zij die zonder een geldige reden een persoon moedwillig van het leven beroofd op het eiland zal gestraft worden volgens de 2e categorie.</li>
-<li>Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|</li>
-</ol>
-<h3 id="artikel-4-permissions-abuse">Artikel 4 - Permissions abuse:<a class="headerlink" href="#artikel-4-permissions-abuse" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 3e of 4e categorie.</li>
-<li>Je permissies misbruiken en daarmee mensen gaan reviven, of autos spammen is ook verboden en zal een straf opleveren van maximaal de 6e categorie.</li>
-<li>Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.</li>
-</ol>
-<h3 id="artikel-5-schelden-met-hedendaagse-ziektes">Artikel 5 - Schelden met hedendaagse ziektes:<a class="headerlink" href="#artikel-5-schelden-met-hedendaagse-ziektes" title="Permanent link">&para;</a></h3>
-<p>Het schelden met ziektes zoals kanker en dergelijke is streng tegen ons beleid, en zal bestraft worden met een straf van maximaal de 7e categorie. Normaliter hangt hier een straf van minimaal de 5e categorie aan.</p>
-<h3 id="artikel-6-kleinerend-gedragspelers-belachelijk-maken">Artikel 6 - Kleinerend gedrag/spelers belachelijk maken:<a class="headerlink" href="#artikel-6-kleinerend-gedragspelers-belachelijk-maken" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Mensen belachelijk maken/denigreren is verboden en zal bestraft worden met een straf van maximaal de 4e categorie.
-Enkele voorbeelden zijn, jongere medespelers belachelijk maken en familieleden betrekken in discussies.</li>
-<li>Vrouwontvriendelijk/manonvriendelijk gedrag wordt bestraft met een maximale straf van de 6e categorie, wanneer er heftige spam plaatsvind, een normale ban zal rond de 4e tot 5e categorie liggen.</li>
-</ol>
-<h3 id="artikel-7-spammen">Artikel 7 - Spammen:<a class="headerlink" href="#artikel-7-spammen" title="Permanent link">&para;</a></h3>
-<ol>
-<li>In deepweb kanalen en berichten expres berichten achter elkaar blijft sturen zonder reden.</li>
-<li>In meldkamer of bij het bellen heel vaak expres achter elkaar doen zonder enkele reden.</li>
-<li>Twitter en reports vaak achter elkaar expres blijven versturen zonder enkele reden.</li>
-<li>Wanneer de regel zoals omschreven is in lid 1, 2 en 3 overtreden is word dit bestraft volgens het 1e categorie.</li>
-</ol>
-<h3 id="artikel-8-safezone-abuserdm">Artikel 8 - Safezone abuse/rdm:<a class="headerlink" href="#artikel-8-safezone-abuserdm" title="Permanent link">&para;</a></h3>
-<p>Iemand die in een safezone staat van buitenaf doodschieten is verboden en word bestraft met een straf van de 3e categorie.</p>
-<h3 id="artikel-9-jezelf-voordoen-als-staff">Artikel 9 - Jezelf voordoen als staff:<a class="headerlink" href="#artikel-9-jezelf-voordoen-als-staff" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het is verboden om je zelf voor te doen als een stafflid.</li>
-<li>Het dragen van outfits, enkel bedoeld voor staffleden zoals de vesten en/of truien is verboden.</li>
-<li>Het aangeven dat je een persoon gaat verbannen is tegen de regels.</li>
-<li>Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 5e categorie.</li>
-<li>Wanneer de regel zoals in lid 3 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 4e categorie.</li>
-</ol>
-<h3 id="artikel-10-value-of-life">Artikel 10 - Value of life:<a class="headerlink" href="#artikel-10-value-of-life" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Je hoeft je niet aan Value of Life te houden als je dit niet wilt.</li>
-<li>Hij/zij die geen waarde hecht aan zijn karakter op het eiland zal gestraft worden met een straf volgens de 2e categorie.</li>
-<li>Enkele voorbeelden van “no value of life” op het eiland:
-zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
-Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
-Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt, valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
-Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
-Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
-Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen.
-Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen.
-De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.</li>
-</ol>
-<h3 id="artikel-11-vdm">Artikel 11 - VDM:<a class="headerlink" href="#artikel-11-vdm" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Hij/zij die op iemand inrijdt met de intentie deze persoon te vermoorden of zijn voertuig bewust als wapen gebruikt, zal gestraft worden volgens de 1e categorie.</li>
-<li>Hij/zij die op een ander voertuig inrijdt met de intentie te "pitten" met een snelheid hoger dan ongeveer 125 km/u of op onverantwoorde wijze op het eiland, zal worden gezien als onrealistisch en dus gestraft worden volgens de 1e categorie.</li>
-<li>Hij/zij die lid 2 uitvoert met een voertuig dat veel "lichter" of kleiner is als het andere voertuig dat "gepit" word, bijvoorbeeld Sedan vs SUV op het eiland, zal ook gestraft worden volgens de 1e categorie.</li>
-</ol>
-<h3 id="artikel-12-staff-abuse">Artikel 12 - Staff Abuse:<a class="headerlink" href="#artikel-12-staff-abuse" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Een stafflid die aan het roleplayen is, mag zijn staff rechten (godmode, player names, etc) niet gebruiken op het eiland. Dit mag alleen als dit stafflid er bezig is met staffzaken. Als dit wel word gebruikt zal dit lid gestraft worden volgens de 1e categorie.</li>
-<li>Een stafflid mag zijn eigen roleplay scenario niet oppakken als staffzaak op het eiland. Als dit wel word gedaan, zal dit lid gestraft worden volgens de 1e categorie.</li>
-<li>Een stafflid mag zijn permissies niet gebruiken in de Redzone.</li>
-<li>Als een stafflid zich niet aan lid 1, 2 &amp; 3 houd, wordt er gestraft met de 1e categorie. Als dit vaker voorkomt bij een stafflid, zal dit door management worden opgepakt en zullen hiervoor andere consequenties voor worden gegeven.</li>
-</ol>
-<h3 id="artikel-13-overval-regels">Artikel 13 - Overval Regels:<a class="headerlink" href="#artikel-13-overval-regels" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Hij/zij die meedoet aan een overval op een juwelier, bank of winkel waarvan een officiële politiemelding is geweest, dient mee te gaan in de roleplay. Hiermee word bedoeld; Je houd je aan New life rule (stoppen met het scenario zodra je dood bent), No value of life, RDM, VDM (pitten onder de 80), en new life rule (niet meteen opstaan en spawnkillen).</li>
-<li>Het is niet toegestaan om te mengen met andermans roleplay scenario bij een overval, ook is het niet toegestaan om de politie dood te schieten om een overval van iemand anders te counteren.</li>
-<li>Zodra alle politie/criminelen dood zijn gegaan, eindigt het scenario.</li>
-<li>Wanneer de regel zoals in lid 1 of 2 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.</li>
-<li>Een stafflid mag dit scenario niet als staffzaak oppakken als diegene zelf meegedaan heeft met de roleplay.</li>
-<li>Wanneer de regel zoals in lid 5 overtreden wordt zal dit bestraft worden met een straf volgens de 3e categorie en een staff waarschuwing.</li>
-</ol>
-<h3 id="artikel-14-new-life-rule">Artikel 14 - New Life Rule:<a class="headerlink" href="#artikel-14-new-life-rule" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Hij/zij die dood is gegaan tijdens een shootout of een roleplay scenario, mag zijn spawnprotection niet gebruiken om iemand anders te kunnen spawnkillen zodra je jezelf hebt gerevived.</li>
-<li>Je hoeft officieel niks te vergeten als je dood bent gegaan, tenzij je dit zelf wilt.</li>
-<li>Als je bent vermoord door iemand anders op het eiland, mag je 1 minuut niet meer meedoen met dat scenario.</li>
-<li>Wanneer de regel zoals in lid 1 of 2 of 3 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.</li>
-</ol>
-<h3 id="artikel-15-verstoren-van-een-rp">Artikel 15 - Verstoren van een RP:<a class="headerlink" href="#artikel-15-verstoren-van-een-rp" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Als mensen met elkaar in een achtervolging zitten ga je niet zomaar mengen of de roleplay verbreken.</li>
-<li>Als er een actieve overval gaande is ga je niet zomaar mengen als je geen politie bent! Verstoor dan ook nooit het scenario en laat het altijd voor ieder leuk!</li>
-<li>Als er een carmeeting / evenement word gehouden door staff of een speler verpest je dit ook niet, in geen enkele opzicht.</li>
-<li>Wanneer de regel zoals omschreven is in lid 1, 2 en 3 word dit bestraft volgens het 1e categorie.</li>
-</ol>
-<h3 id="artikel-16-adverteren">Artikel 16 - Adverteren:<a class="headerlink" href="#artikel-16-adverteren" title="Permanent link">&para;</a></h3>
-<ol>
-<li>In /me en dergelijk je kanaal zetten en “sub” / “follow” mij “kanaal”</li>
-<li>Tegen mensen via voice chat je kanaal adverteren.</li>
-<li>Wanneer de regel zoals in lid 1 en 2 omschreven is, word overtreden gaat dit bestraft worden volgens het 1e categorie.</li>
-</ol>
-<h3 id="artikel-17-earrape">Artikel 17 -  Earrape:<a class="headerlink" href="#artikel-17-earrape" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Schreeuwen door je microfoon</li>
-<li>Harde muziek door je microfoon afspelen</li>
-<li>Allerlei harde geluiden door je microfoon afspelen</li>
-<li>Wanneer de regel die omschreven is in lid 1, 2 en 3 overtreden is word dit bestraft volgens het 1e categorie.</li>
-</ol>
-<h3 id="artikel-18-algemene-regels-voor-betaalde-gangs">Artikel 18 -  Algemene regels voor betaalde gangs:<a class="headerlink" href="#artikel-18-algemene-regels-voor-betaalde-gangs" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het misbruik maken van je F6-menu door middel van onrealistische acties uit te voeren zoals onder beschreven.</li>
-<li>Confisqueren van items / wapens zonder enkele reden / roleplay. Dit is alleen toegestaan waarin je in een duidelijk goede roleplay zit. Tijdens het confisqueren hoor je te vermelden wat je aan het doen bent.</li>
-<li>Gang oorlogen mogen niet zomaar gestart worden. Dit moet door het bestuur van de gangs besproken worden. (Hier valt invallen etc. ook onder!)</li>
-<li>Je mag een officiële groepering niet zomaar na doen, dit is alleen toegestaan met een goede en duidelijke roleplay.</li>
-<li>Het vluchten op het gang terrein tijdens een goed en duidelijk roleplay scenario is niet toegestaan. mits dit wel gebeurd hebben de 
-   anderen mensen het recht om binnen tevallen.</li>
-<li>Wanneer de regel zoals in lid 1 of 2 overtreden wordt zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal de 4e categorie.</li>
-<li>Wanneer de regel zoals in lid 3, 4 of 5 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.</li>
-</ol>
-<h3 id="artikel-19-terrein-claimen">Artikel 19 -  Terrein Claimen:<a class="headerlink" href="#artikel-19-terrein-claimen" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Wanneer een officiele gang een terrein bezit mag deze niet door een andere groep of persoon geclaimd worden.</li>
-<li>Wanneer je weggestuurd word op een gangterrein door iemand die dit gangterrein bezit dien je weg te gaan.</li>
-<li>Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt is niet toegestaan.</li>
-<li>Wanneer de regels zoals in lid 1, 2 of 3 overtreden worden, zal dit bestraft worden met een straf volgens minimaal de 3e categorie.</li>
-</ol>
-<h3 id="artikel-20-uitlokken-van-officiele-gangs">Artikel 20 -  Uitlokken van officiële gangs:<a class="headerlink" href="#artikel-20-uitlokken-van-officiele-gangs" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Nep meldingen maken bij een terrein van een officiële groepering zodat politie of een andere groepering hier iets mee te maken krijgt.</li>
-<li>Als officiële/onofficiële groep een officiële groepering opwachten bij hun terrein om hun dan te ontvoeren of te beschieten.</li>
-<li>Wanneer lid 1 &amp; 2 worden overtreden zal dit bestraft worden met maximaal de 2e categorie.</li>
-</ol>
-<h3 id="artikel-21-combatlogging">Artikel 21 - Combatlogging:<a class="headerlink" href="#artikel-21-combatlogging" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Indien u in een staffzaak zit en besluit uit de stad te gaan zal dit een straf opleveren van maximaal de 1e categorie.</li>
-<li>Indien u een regel overtreedt en bewust de stad verlaat nadien u de regel overtreden hebt, zal dit opleveren op een straf van maximaal de 2e categorie.</li>
-</ol>
-<h3 id="artikel-22-streamsnipen">Artikel 22 - Streamsnipen:<a class="headerlink" href="#artikel-22-streamsnipen" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Naar een streamer zijn locatie gaan en hem vervolgens verstoren/content van de streamer verpesten.</li>
-<li>Wanneer de regel zoals in lid 1 overtreden wordt, zal dit bestraft worden met een straf volgens de 3e categorie.</li>
-</ol>
-<h3 id="artikel-23-liegen-tegen-staffleden">Artikel 23 - Liegen tegen staffleden:<a class="headerlink" href="#artikel-23-liegen-tegen-staffleden" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Tijdens een staffzaak liegen over hoe een situatie daadwerkelijk gegaan is.</li>
-<li>In een ticket het bewijs verdraaien om zo iemand een straf te laten krijgen.</li>
-<li>In een ticket bepaalde feiten ontkennen om onder een straf uit te komen.</li>
-<li>Wanneer de regel zoals in lid 1, 2 of 3 overtreden wordt, zal dit bestraft worden met een straf volgens de 5e categorie.</li>
-</ol>
-<h3 id="artikel-24-bedreiging">Artikel 24 - Bedreiging:<a class="headerlink" href="#artikel-24-bedreiging" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het dreigen met privégegevens.</li>
-<li>Het dreigen met ip's/dreigen met booten (ddossen).</li>
-<li>Het delen van persoonlijke informatie van spelers/staffleden.</li>
-<li>Het (be)dreigen met acties en/of handelingen die invloed kunnen hebben in het echte leven.</li>
-<li>Wanneer de regel zoals in lid 1, 2 of 3 overtreden wordt, zal dit bestraft worden met een straf volgens de 7e categorie.</li>
-<li>Wanneer de regel zoals in lid 4 overtreden wordt, zal dit bestraft worden met een straf volgens minimaal de 1e categorie en maximaal 
-   de 5e categorie.</li>
-</ol>
-<h3 id="artikel-25-erotische-rp-scenarios">Artikel 25  - Erotische RP Scenario's:<a class="headerlink" href="#artikel-25-erotische-rp-scenarios" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het is ten alle tijden verboden om in een scenario seksuele roleplay neer te zetten.</li>
-<li>Wanneer de regel zoals in lid 1 word omschreven overtreden is, word dit bestraft volgens de 4e categorie.</li>
-</ol>
-<h3 id="artikel-26-reports">Artikel 26  - Reports:<a class="headerlink" href="#artikel-26-reports" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het maken van reports om de minuut met dezelfde informatie word gezien als reports spammen.</li>
-<li>Wanneer de regel zoals in lid 1 word omschreven overtreden is, word dit bestraft met een kick. Mocht dit vaker gebeuren, kan een stafflid overgaan tot het bestraffen volgens de 1e categorie.</li>
-</ol>
-<h3 id="artikel-27-officiele-groeperingen">Artikel 27 - Officiële Groeperingen:<a class="headerlink" href="#artikel-27-officiele-groeperingen" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Tijdens een Roleplay scenario is het toegestaan om binnen te vallen mits dit overlegt is met beide partijen.</li>
-<li>Tijdens een Roleplay scenario van 2 of meerdere Officiële Groeperingen is het verboden om te noclippen.</li>
-<li>Tijdens een Roleplay scenario van 2 of meerdere Officiële Groeperingen mag een Stafflid die betrokken is bij dit scenario niet zijn eigen staffzaak oppakken.</li>
-<li>Wanneer lid 1 &amp; 2 worden overtreden zal dit gestraft worden met maximaal de 3e categorie.</li>
-<li>Wanneer lid 3 wordt overtreden zal dit gestraft worden met een straf van de 1e categorie samen met een staffstrike.</li>
-</ol>
-<h3 id="artikel-28-scammenoplichting">Artikel 28 - Scammen/oplichting:<a class="headerlink" href="#artikel-28-scammenoplichting" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Het oplichten van mensen die exclusieve items in bezit hebben.</li>
-<li>Het leaken van spawncodes van exclusieve items of voertuigen.</li>
-<li>Wanneer de regel zoals in lid 1 of 2 overtreden wordt, zal dit bestraft worden met minimaal de 2e categorie en maximaal de 5e categorie.</li>
-</ol>
-<h3 id="samensluiting">Samensluiting<a class="headerlink" href="#samensluiting" title="Permanent link">&para;</a></h3>
-<ol>
-<li>Deze regels zijn opgesteld op 5/22/23</li>
-<li>Deze regels zijn bewerkt op 7/27/2023</li>
-</ol>
+<h2 id="officiele-discord-servers">Officiële discord servers<a class="headerlink" href="#officiele-discord-servers" title="Permanent link">&para;</a></h2>
+<p>STS Haar officiele Discord servers:</p>
+<table>
+<thead>
+<tr>
+<th>Server</th>
+<th>Beschrijving</th>
+<th style="text-align: center;">Invite link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shady's Testserver</td>
+<td>Main discord server van Shady</td>
+<td style="text-align: center;"><a href="https://discord.gg/sts">Invite</a></td>
+</tr>
+<tr>
+<td>STS Support</td>
+<td>Support discord van Shady</td>
+<td style="text-align: center;"><a href="https://discord.gg/EtgWNDzpCb">Invite</a></td>
+</tr>
+<tr>
+<td>STS Onderwereld</td>
+<td>Onderwereld Discord van Shady</td>
+<td style="text-align: center;"><a href="https://discord.gg/XsRSdDNbWt">Invite</a></td>
+</tr>
+<tr>
+<td>STS Overheid</td>
+<td>Overheids Discord van Shady</td>
+<td style="text-align: center;"><a href="https://discord.gg/mVWmnZ7Tc8">Invite</a></td>
+</tr>
+<tr>
+<td>STS Scripts</td>
+<td>Scripts van Shady</td>
+<td style="text-align: center;"><a href="https://discord.gg/YCyM35bxKp">Invite</a></td>
+</tr>
+</tbody>
+</table>
+<h3 id="gemaakt-door-caspertjuh">Gemaakt door <a href="https://discord.gg/cSQPX2uJDW">Caspertjuh</a><a class="headerlink" href="#gemaakt-door-caspertjuh" title="Permanent link">&para;</a></h3>
 
 
   
@@ -1141,10 +606,10 @@ De beslissing van een stafflid betreft alle bovenstaande en overige situaties is
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["content.code.copy", "content.code.select", "navigation.top", "navigation.tracking", "search.highlight", "toc.follow"], "search": "../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["content.code.copy", "content.code.select", "navigation.top", "navigation.tracking", "search.highlight", "toc.follow"], "search": "assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.220ee61c.min.js"></script>
+      <script src="assets/javascripts/bundle.220ee61c.min.js"></script>
       
     
   </body>
